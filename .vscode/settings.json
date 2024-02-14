@@ -12,5 +12,8 @@
       "MacOS",
       "deps"
    ],
-   "svg.preview.background": "transparent"
+   "svg.preview.background": "transparent",
+   "i18n-ally.localesPaths": [
+      "src/renderer/i18n"
+   ]
 }
